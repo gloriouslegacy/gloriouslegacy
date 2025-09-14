@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="center">
   <img src="https://your-banner-url.com/banner.png" alt="Glorious Legacy Banner" width="100%" />
 </p>
@@ -53,6 +53,7 @@ Building tools, exploring new ideas, shipping code
 | LinkedIn | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile) |
 
 ---
+-->
 
 <!--
 <p align="center">
@@ -88,4 +89,13 @@ Building tools, exploring new ideas, shipping code
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 
 -->
+
+## 🚀 Projects
+
+- [Project One](https://github.com/gloriouslegacy/project-one) — One-line summary about what this does
+- [Project Two](https://github.com/gloriouslegacy/project-two) — Another short description here
+- [Project Three](https://github.com/gloriouslegacy/project-three) — Short description here
+- [Project Four](https://github.com/gloriouslegacy/project-four) — Short description here
+
+
 
