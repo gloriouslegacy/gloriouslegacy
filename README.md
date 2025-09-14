@@ -15,6 +15,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Glorious Legacy Banner" width="100%" />
+</p>
+
+---
+
+### 👋 Hello, I’m Glorious Legacy
+
+Open source enthusiast | AI & automation focused  
+Building tools, exploring new ideas, shipping code  
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Project One](https://github.com/gloriouslegacy/project-one) | One-sentence summary about what this does |
+| [Project Two](https://github.com/gloriouslegacy/project-two) | Another summary here |
+| [Project Three](https://github.com/gloriouslegacy/project-three) | Short description here |
+
+---
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriouslegacy&show_icons=true&theme=default)
+
+---
+
+### 🔗 Find me elsewhere
+
+| Platform | Link |
+|---|---|
+| Email | your.email@example.com |
+| Portfolio | [your-website.com](https://your-website.com) |
+| LinkedIn | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile) |
+
+---
+
+<!--
+<p align="center">
+  &copy; 2025 Glorious Legacy
+</p>
+
+
 ## 👋 Hi, I'm Glorious Legacy
 
 💻 Software developer interested in **AI, automation, and open source**  
@@ -41,4 +86,6 @@ Here are some ideas to get you started:
 - 📧 your.email@example.com  
 - 🌍 [your-website.com](https://your-website.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+
+-->
 
