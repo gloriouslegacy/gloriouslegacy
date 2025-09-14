@@ -90,12 +90,6 @@ Building tools, exploring new ideas, shipping code
 
 -->
 
-## 🚀 Projects
-
-- [Project One](https://github.com/gloriouslegacy/project-one) — One-line summary about what this does
-- [Project Two](https://github.com/gloriouslegacy/project-two) — Another short description here
-- [Project Three](https://github.com/gloriouslegacy/project-three) — Short description here
-- [Project Four](https://github.com/gloriouslegacy/project-four) — Short description here
 
 
 
