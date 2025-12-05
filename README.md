@@ -2,6 +2,7 @@
 
 
 - [ytDownloader](https://github.com/gloriouslegacy/ytDownloader/releases)
+  <img width="1129" height="837" alt="Image" src="https://github.com/user-attachments/assets/fc62a26d-3d87-4cc7-9e7a-f29d829aff06" />
 - [keyboarddMapping](https://github.com/gloriouslegacy/keybdMapping/releases)
 - [ezSLauncher](https://github.com/gloriouslegacy/ezSLauncher/releases)
 - [ezBAK](https://github.com/gloriouslegacy/ezBAK/releases)
