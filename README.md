@@ -2,6 +2,7 @@
 
 
 - [ytDownloader](https://github.com/gloriouslegacy/ytDownloader/releases)
+- [keybdMapping](https://github.com/gloriouslegacy/keybdMapping/releases)
 - [ezSLauncher](https://github.com/gloriouslegacy/ezSLauncher/releases)
 - [ezBAK](https://github.com/gloriouslegacy/ezBAK/releases)
 - [BrowserBookmarks](https://github.com/gloriouslegacy/BrowserBookmarks/releases)
